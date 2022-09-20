@@ -1,7 +1,7 @@
 
 # User Management
 
-A CRUD Application in React.js
+A CRUD Application in React.js, Node.js, Express.js, MongoDB
 
 
 
